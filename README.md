@@ -22,7 +22,7 @@ of delivery failures and negative reviews.
 ## B. Project Links
 
 - **Google Colab Notebook:** [View Notebook](https://colab.research.google.com/drive/1nxwwA1pIyJU6piq1hKnz-41tP45xFlit?usp=sharing)
-- **Public Dashboard:** [View Looker Studio Dashboard](REPLACE_WITH_YOUR_LOOKER_STUDIO_LINK)
+- **Public Dashboard:** [View Looker Studio Dashboard](https://datastudio.google.com/reporting/1954e771-08ed-4209-8d44-c3b86766a592)
 - **Insight Presentation:** [View Google Slides Presentation](REPLACE_WITH_YOUR_GOOGLE_SLIDES_LINK)
 - **Video Walkthrough (Optional):** Not submitted
 
