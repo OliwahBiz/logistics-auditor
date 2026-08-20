@@ -8,20 +8,14 @@
 
 ## A. The Executive Summary
 
-Our delivery performance audit of 95,824 verified orders reveals that 92.0% of
-deliveries arrived on or before the estimated date, while 8.0% (7,661 orders)
-experienced fulfillment delays. Delivery punctuality is directly and severely
-correlated with customer satisfaction: on-time deliveries maintain an average
-review score of 4.29 out of 5.0 stars, whereas late deliveries drop to 3.46
-stars, and Super Late orders (more than 5 days overdue) collapse to just 1.78
-stars — a 59% satisfaction loss. Regional analysis uncovers critical geographic
-disparities, with remote Northeastern states such as Alagoas (23.35% late) and
-Maranhão (19.24% late) experiencing failure rates nearly four times higher than
-central distribution hubs like São Paulo (5.70% late) and Minas Gerais (5.40%
-late). To prevent continued negative review spikes, Veridi Logistics must
-dynamically adjust estimated delivery windows for remote routes, clear Monday
-and Friday warehouse backlogs, and introduce dedicated freight carriers for
-high-delay product categories such as electronics and office furniture.
+Our audit of 95,824 delivered orders found that 92% arrived on time, while 8%
+experienced delays that directly caused customer satisfaction to collapse. On-time
+deliveries averaged 4.29 stars, late deliveries dropped to 3.46 stars, and Super
+Late orders (more than 5 days overdue) fell to just 1.78 stars. Remote
+Northeastern states like Alagoas (23.35% late) and Maranhão (19.24% late) suffered
+failure rates nearly four times higher than central hubs like São Paulo (5.70%),
+confirming that geographic distance from distribution centers is the primary driver
+of delivery failures and negative reviews.
 
 ---
 
