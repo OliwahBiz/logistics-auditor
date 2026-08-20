@@ -145,7 +145,7 @@ dedicated carrier contracts to reduce fulfillment failures.
 | On-Time Deliveries              | 88,163 (92.0%)           | Baseline satisfaction: 4.29                |
 | Late Deliveries (1-5 Days)      | 3,568 (3.7%)             | Satisfaction drops to 3.46  (-19%)         |
 | Super Late Deliveries (>5 Days) | 4,093 (4.3%)             | Satisfaction collapses to 1.78 (-59%)      |
-| Worst State: Alagoas (AL)       | 23.35% late              | Remote corridor — 4x higher than hubs      |
+| Worst State: Alagoas (AL)       | 23.35% late              | Remote corridor 4x higher than hubs      |
 | Worst State: Maranhão (MA)      | 19.24% late              | Long-haul Northeastern transit failure     |
 | Best State: Rondônia (RO)       | 3.50% late               | Strong regional hub performance            |
 | Best Hub: São Paulo (SP)        | 5.70% late               | Central distribution advantage             |
