@@ -23,7 +23,7 @@ of delivery failures and negative reviews.
 
 - **Google Colab Notebook:** [View Notebook](https://colab.research.google.com/drive/1nxwwA1pIyJU6piq1hKnz-41tP45xFlit?usp=sharing)
 - **Public Dashboard:** [View Looker Studio Dashboard](https://datastudio.google.com/reporting/1954e771-08ed-4209-8d44-c3b86766a592)
-- **Insight Presentation:** [View Google Slides Presentation](REPLACE_WITH_YOUR_GOOGLE_SLIDES_LINK)
+- **Insight Presentation:** [View Google Slides Presentation](https://docs.google.com/presentation/d/12gyEiWHQ1UHr4r13OWKV0Ik8aUdOdoGR/edit?usp=sharing&ouid=115548016772798301942&rtpof=true&sd=true)
 - **Video Walkthrough (Optional):** Not submitted
 
 ---
